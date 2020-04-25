@@ -1,0 +1,26 @@
+/*Search*/
+#search {text-align: center; font-size: 16px; font-weight: bold;}
+.search:hover{font-weight: bold; background-color: darkgray;cursor: pointer}
+#search input {text-align: center;padding: 2px 60px; margin-left: 285px;}
+ 
+/*Menu tab*/
+#search {background-color:#3b5998; overflow: hidden; padding: 12px 60px;}
+	
+/*Menu tab buttons*/
+.btn {background-color:#3b5998;border: none;color: white;font-weight: bold; float: right; padding: 16px 20px;font-size: 15px;cursor: pointer;}
+.btn:hover {background-color:darkblue; color:white; font-weight:bold;}
+            
+/*Add friend button*/
+.addfriend {font-size: 16px;float:right; padding: 16px 40px;cursor: pointer;margin-right:285px; margin-bottom:2px;}
+.addfriend:hover{background-color:#3b5998; color: white; font-weight: bold;cursor: pointer;}
+            
+/*Meta data */ 
+#profile {text-align: center; display:contents; padding: 10px; width: 50%;}  
+
+/*Photo */ 
+.photo {height: 400px;width: 950px;border-radius: 30px;display: block; margin-left: auto;margin-right: auto;}
+          
+body {background-color: #f7f7f7;font-family:sans-serif;}
+h1, h2 {text-align: center;}
+            
+    
